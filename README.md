@@ -56,7 +56,7 @@ O desempenho do modelo é avaliado usando a métrica do erro quadrático médio 
 - `RegressionLinear.joblib`: Serialized trained model saved for later use.
 
 ## ✍ Autor
-- [Gches](https://github.com/gches.dev) 
+- [Gches](https://github.com/gchesdev) 
 
 ## Licença
 
